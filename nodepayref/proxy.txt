@@ -1,0 +1,35 @@
+http://ip:port
+http://username:password@ip:port
+# use 100% working proxy 
+http://plwguipm:y9ouxpc2edq0@107.172.163.27:6543
+http://plwguipm:y9ouxpc2edq0@198.23.239.134:6540
+http://plwguipm:y9ouxpc2edq0@207.244.217.165:6712
+http://plwguipm:y9ouxpc2edq0@64.137.42.112:5157
+http://plwguipm:y9ouxpc2edq0@161.123.152.115:6360
+http://plwguipm:y9ouxpc2edq0@173.211.0.148:6641
+http://plwguipm:y9ouxpc2edq0@167.160.180.203:6754
+http://plwguipm:y9ouxpc2edq0@154.36.110.199:6853
+http://plwguipm:y9ouxpc2edq0@173.0.9.209:5792
+http://plwguipm:y9ouxpc2edq0@173.0.9.70:5653
+
+http://hfhambrb:vg1xghgbf01l@207.244.217.165:6712
+http://hfhambrb:vg1xghgbf01l@107.172.163.27:6543
+http://hfhambrb:vg1xghgbf01l@64.137.42.112:5157
+http://hfhambrb:vg1xghgbf01l@173.211.0.148:6641
+http://hfhambrb:vg1xghgbf01l@161.123.152.115:6360
+http://hfhambrb:vg1xghgbf01l@167.160.180.203:6754
+http://hfhambrb:vg1xghgbf01l@154.36.110.199:6853
+http://hfhambrb:vg1xghgbf01l@173.0.9.70:5653
+http://hfhambrb:vg1xghgbf01l@173.0.9.209:5792
+http://hfhambrb:vg1xghgbf01l@198.23.239.134:6540
+
+http://aqiddrde:wmxqhvx0p0j0@64.137.42.112:5157
+http://aqiddrde:wmxqhvx0p0j0@107.172.163.27:6543
+http://aqiddrde:wmxqhvx0p0j0@154.36.110.199:6853
+http://aqiddrde:wmxqhvx0p0j0@161.123.152.115:6360
+http://aqiddrde:wmxqhvx0p0j0@167.160.180.203:6754
+http://aqiddrde:wmxqhvx0p0j0@173.0.9.70:5653
+http://aqiddrde:wmxqhvx0p0j0@173.0.9.209:5792
+http://aqiddrde:wmxqhvx0p0j0@173.211.0.148:6641
+http://aqiddrde:wmxqhvx0p0j0@198.23.239.134:6540
+http://aqiddrde: wmxqhvx0p0j0@207.244.217.165:6712
